@@ -19,7 +19,7 @@ Threestudio est un cadre unifié pour la création de contenu 3D à partir d'inv
 
 Généré avec[Ritr](https://app.rytr.me)
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
