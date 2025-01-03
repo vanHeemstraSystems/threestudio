@@ -1,4 +1,4 @@
-three-studio
+drie-studio
 
 # Drie Studio
 
