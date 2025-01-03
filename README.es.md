@@ -6,8 +6,8 @@ tres estudios
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
--   [Glosario](./GLOSSARY.md)
--   [Anfitriones](./HOSTS.md)
+-   [Glossary](./GLOSSARY.md)
+-   [Hosts](./HOSTS.md)
 -   [Imágenes](./IMAGES.md)
 -   [Suave](./PODMAN.md)
 -   [Referencias](./REFERENCES.md)
@@ -15,7 +15,7 @@ tres estudios
 
 **Resumen ejecutivo**
 
-Threestudio es un marco unificado para la creación de contenido 3D a partir de mensajes de texto, imágenes individuales e imágenes de pocas tomas, mediante la conversión de modelos de generación de texto a imagen en 2D.
+Threestudio es un marco unificado para la creación de contenido 3D a partir de indicaciones de texto, imágenes individuales e imágenes de pocas tomas, mediante la conversión de modelos de generación de texto a imagen en 2D.
 
 Generado con[ritr](https://app.rytr.me)
 
