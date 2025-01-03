@@ -1,7 +1,7 @@
 three-studio
 # Three Studio
 
-> Slugline
+> A unified framework for 3D content generation.
 
 - [DNS](./DNS.md)
 - [Documentation](./DOCUMENTATION.md)
