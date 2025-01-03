@@ -1,4 +1,4 @@
-drie-studio
+three-studio
 
 # Drie Studio
 
@@ -15,7 +15,7 @@ drie-studio
 
 **Samenvatting**
 
-Tekst
+Threestudio is een uniform raamwerk voor het maken van 3D-inhoud op basis van tekstprompts, afzonderlijke afbeeldingen en afbeeldingen met een paar opnames, door 2D-modellen voor het genereren van tekst naar afbeeldingen op te heffen.
 
 Gegenereerd met[Ritr](https://app.rytr.me)
 
