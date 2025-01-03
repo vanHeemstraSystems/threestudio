@@ -14,7 +14,7 @@ three-studio
 
 **Executive Summary**
 
-Text
+Threestudio is a unified framework for 3D content creation from text prompts, single images, and few-shot images, by lifting 2D text-to-image generation models.
 
 Generated with [Rytr](https://app.rytr.me)
 
