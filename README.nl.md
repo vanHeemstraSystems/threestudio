@@ -2,7 +2,7 @@ drie-studio
 
 # Drie Studio
 
-> Slaklijn
+> Een uniform raamwerk voor het genereren van 3D-inhoud.
 
 -   [DNS](./DNS.md)
 -   [Documentatie](./DOCUMENTATION.md)
