@@ -2,20 +2,20 @@ trois studios
 
 # Trois Studios
 
-> Slugline
+> Un cadre unifié pour la génération de contenu 3D.
 
 -   [DNS](./DNS.md)
 -   [Documentation](./DOCUMENTATION.md)
 -   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Tamisé](./PODMAN.md)
+-   [Podman](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
-Texte
+Text
 
 Généré avec[Ritr](https://app.rytr.me)
 
@@ -27,7 +27,7 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
 Voir[README.md](./300/README.md)
 
