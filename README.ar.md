@@ -23,11 +23,11 @@ Threestudio هو إطار عمل موحد لإنشاء محتوى ثلاثي ا�
 
 يرى[README.md](./100/README.md)
 
-## 200 - المتطلبات
+## 200 - Requirements
 
 يرى[README.md](./200/README.md)
 
-## 300 – بناء تطبيقنا
+## 300 - Building Our Application
 
 يرى[README.md](./300/README.md)
 
