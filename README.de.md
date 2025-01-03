@@ -1,8 +1,8 @@
-Drei-Studio
+three-studio
 
 # Drei Studio
 
-> Ein einheitliches Framework für die Generierung von 3D-Inhalten.
+> A unified framework for 3D content generation.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -15,7 +15,7 @@ Drei-Studio
 
 **Zusammenfassung**
 
-Text
+Threestudio ist ein einheitliches Framework für die Erstellung von 3D-Inhalten aus Textaufforderungen, Einzelbildern und Bildern mit wenigen Aufnahmen durch Anhebung von 2D-Text-zu-Bild-Generierungsmodellen.
 
 Erstellt mit[Ritr](https://app.rytr.me)
 
