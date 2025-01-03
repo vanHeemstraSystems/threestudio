@@ -1,6 +1,6 @@
-repositorynaam
+drie-studio
 
-# Naam van opslagplaats
+# Drie Studio
 
 > Slaklijn
 
