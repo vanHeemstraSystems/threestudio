@@ -2,7 +2,7 @@ Drei-Studio
 
 # Drei Studio
 
-> Slugline
+> Ein einheitliches Framework für die Generierung von 3D-Inhalten.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
@@ -25,7 +25,7 @@ Sehen[README.md](./100/README.md)
 
 ## 200 – Anforderungen
 
-See [README.md](./200/README.md)
+Sehen[README.md](./200/README.md)
 
 ## 300 – Erstellen unserer Anwendung
 
