@@ -2,7 +2,7 @@
 
 # 三工作室
 
-> 斯拉格莱恩
+> 3D 内容生成的统一框架。
 
 -   [域名系统](./DNS.md)
 -   [文档](./DOCUMENTATION.md)
@@ -10,7 +10,7 @@
 -   [主办方](./HOSTS.md)
 -   [图片](./IMAGES.md)
 -   [柔和的](./PODMAN.md)
--   [参考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 -   [遥测](./TELEMETRY.md)
 
 **执行摘要**
