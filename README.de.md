@@ -1,8 +1,8 @@
-three-studio
+Drei-Studio
 
 # Drei Studio
 
-> A unified framework for 3D content generation.
+> Ein einheitliches Framework für die Generierung von 3D-Inhalten.
 
 -   [DNS](./DNS.md)
 -   [Dokumentation](./DOCUMENTATION.md)
