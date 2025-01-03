@@ -1,4 +1,4 @@
-trois studios
+three-studio
 
 # Trois Studios
 
@@ -9,13 +9,13 @@ trois studios
 -   [Glossaire](./GLOSSARY.md)
 -   [Hôtes](./HOSTS.md)
 -   [Images](./IMAGES.md)
--   [Podman](./PODMAN.md)
+-   [Tamisé](./PODMAN.md)
 -   [Références](./REFERENCES.md)
 -   [Télémétrie](./TELEMETRY.md)
 
 **Résumé exécutif**
 
-Text
+Threestudio est un cadre unifié pour la création de contenu 3D à partir d'invites de texte, d'images uniques et d'images en quelques prises, en exploitant les modèles de génération de texte en image 2D.
 
 Généré avec[Ritr](https://app.rytr.me)
 
@@ -23,7 +23,7 @@ Généré avec[Ritr](https://app.rytr.me)
 
 Voir[README.md](./100/README.md)
 
-## 200 - Exigences
+## 200 - Requirements
 
 Voir[README.md](./200/README.md)
 
