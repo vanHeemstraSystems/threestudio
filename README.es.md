@@ -2,7 +2,7 @@ tres estudios
 
 # Tres estudios
 
-> línea de bala
+> Un marco unificado para la generación de contenido 3D.
 
 -   [DNS](./DNS.md)
 -   [Documentación](./DOCUMENTATION.md)
