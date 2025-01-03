@@ -2,7 +2,7 @@
 
 # ثلاثة استوديو
 
-> سلوجلاين
+> إطار موحد لإنشاء المحتوى ثلاثي الأبعاد.
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
@@ -21,13 +21,13 @@
 
 ## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
