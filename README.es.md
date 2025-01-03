@@ -15,7 +15,7 @@ tres estudios
 
 **Resumen ejecutivo**
 
-Texto
+Threestudio es un marco unificado para la creación de contenido 3D a partir de indicaciones de texto, imágenes individuales e imágenes de pocas tomas, mediante la conversión de modelos de generación de texto a imagen en 2D.
 
 Generado con[ritr](https://app.rytr.me)
 
