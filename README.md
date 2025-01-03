@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+three-studio
+# Three Studio
 
 > Slugline
 
