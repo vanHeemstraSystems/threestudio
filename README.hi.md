@@ -1,14 +1,14 @@
-तीन स्टूडियो
+three-studio
 
-# तीन स्टूडियो
+# Three Studio
 
-> A unified framework for 3D content generation.
+> 3डी सामग्री निर्माण के लिए एक एकीकृत ढांचा।
 
 -   [डीएनएस](./DNS.md)
 -   [प्रलेखन](./DOCUMENTATION.md)
 -   [शब्दकोष](./GLOSSARY.md)
 -   [मेजबान](./HOSTS.md)
--   [Images](./IMAGES.md)
+-   [इमेजिस](./IMAGES.md)
 -   [मातहत](./PODMAN.md)
 -   [संदर्भ](./REFERENCES.md)
 -   [टेलीमेटरी](./TELEMETRY.md)
@@ -23,7 +23,7 @@
 
 देखना[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - आवश्यकताएँ
 
 देखना[README.md](./200/README.md)
 
