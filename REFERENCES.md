@@ -1,3 +1,3 @@
 # References
 
-- [Reference Name](https://example.com)
+- [ThreeStudio](https://github.com/threestudio-project/threestudio)
