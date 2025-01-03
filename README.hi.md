@@ -15,11 +15,11 @@
 
 **कार्यकारी सारांश**
 
-थ्रीस्टूडियो 2डी टेक्स्ट-टू-इमेज जनरेशन मॉडल को उठाकर टेक्स्ट प्रॉम्प्ट, एकल छवियों और कुछ-शॉट छवियों से 3डी सामग्री निर्माण के लिए एक एकीकृत ढांचा है।
+Threestudio is a unified framework for 3D content creation from text prompts, single images, and few-shot images, by lifting 2D text-to-image generation models.
 
 के साथ उत्पन्न हुआ[रित्र](https://app.rytr.me)
 
-## 100 - परिचय
+## 100 - Introduction
 
 देखना[README.md](./100/README.md)
 
@@ -33,4 +33,4 @@
 
 ## 400 - निष्कर्ष
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
