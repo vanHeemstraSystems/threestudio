@@ -1,13 +1,13 @@
-اسم المستودع
+ثلاثة استوديوهات
 
-# اسم المستودع
+# ثلاثة استوديو
 
 > سلوجلاين
 
 -   [DNS](./DNS.md)
 -   [التوثيق](./DOCUMENTATION.md)
 -   [مسرد](./GLOSSARY.md)
--   [Hosts](./HOSTS.md)
+-   [المضيفين](./HOSTS.md)
 -   [الصور](./IMAGES.md)
 -   [مهزوما](./PODMAN.md)
 -   [مراجع](./REFERENCES.md)
