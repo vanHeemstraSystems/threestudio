@@ -1,6 +1,6 @@
-nombre-repositorio
+tres estudios
 
-# Repository Name
+# Tres estudios
 
 > línea de bala
 
